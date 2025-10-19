@@ -1,5 +1,7 @@
 # PyRat Pathfinding game
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/aadf7463-677e-42a4-b5b4-368d079797bf" />
+
 ## Overview
 This repository contains the Python implementation of an AI strategy designed for the **PyRat maze game**. The strategy, referred to as **Hybrid Explorer**, combines **density-based initial movement** with a **Greedy Shortest Path** approach to maximize cheese collection.
 
