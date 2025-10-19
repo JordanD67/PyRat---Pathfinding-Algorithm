@@ -1,2 +1,9 @@
-# PyRat---Pathfinding-Algorithm
-This project was developed as part of the AI &amp; Algorithms course at IMT Atlantique.   It focuses on implementing and testing custom pathfinding strategies within the PyRat educational game framework.
+# About
+
+This is the software of the course [PyRat](https://formations.imt-atlantique.fr/pyrat).
+
+Original code by Vincent Gripon. Fork revised and maintained by Bastien Pasdeloup.
+
+# Installation and usage
+
+For up to date installation and usage details, please refer to the PyRat website [here](https://formations.imt-atlantique.fr/pyrat/install/).
